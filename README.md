@@ -1,5 +1,7 @@
 # CS50-Cracker
-Cracker for passwords encrypted with classic DES.
+Cracker for passwords encrypted with classic DES. Assigned through online course Harvard CS50.
+
+If you're taking the course, kindly don't look at this unless you're truly stumped.
 
 The only argument this program takes is a DES-encrypted password.
 
